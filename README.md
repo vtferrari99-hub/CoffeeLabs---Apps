@@ -4,8 +4,9 @@ Vitrine pública dos apps da CoffeeLabs. Aqui ficam **só** o catálogo e os APK
 
 ## Como funciona
 - `catalogo.json` — lista de apps (nome, versão, tamanho, ícone, link do APK e `sha256`). O instalador CoffeeLabs lê este arquivo para montar a vitrine e avisar de atualizações.
-- **Releases** — cada app tem uma release com o nome do seu `id` (ex.: `zeus`) contendo o APK mais recente. Link fixo:
-  `https://github.com/vtferrari99-hub/CoffeeLabs---Apps/releases/download/<id>/<Arquivo>.apk`
+- `apks/` — o APK mais recente de cada app (ex.: `apks/Zeus.apk`), assinado e sem código-fonte. Link fixo:
+  `https://raw.githubusercontent.com/vtferrari99-hub/CoffeeLabs---Apps/main/apks/<Arquivo>.apk`
+- **Releases** (opcional) — o build de cada app também pode publicar o APK numa release com o nome do seu `id` (ex.: `zeus`).
 - `icones/` — ícone de cada app (PNG 512×512).
 
 O build de cada app (GitHub Actions no repositório privado dele) publica o APK aqui e atualiza o `catalogo.json` sozinho.

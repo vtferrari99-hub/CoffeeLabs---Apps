@@ -8,14 +8,14 @@
       "nome": "Zeus",
       "pacote": "com.coffeelabs.monitor",
       "descricao": "Seu assistente do celular: bateria, memória, segurança, clima e GitHub, com avisos inteligentes.",
-      "versao": "0.8.0",
-      "versionCode": 8,
+      "versao": "0.8.1",
+      "versionCode": 9,
       "minAndroid": 10,
-      "tamanhoBytes": 2763882,
-      "sha256": "92c1c63a9fbadf820fa31732b2ea7ef62292f1ed5f80312a01d3010b850a2762",
+      "tamanhoBytes": 2763886,
+      "sha256": "268164a217d019ddcb8a5b6778659256bb4e1bbdbb74659742b3f4aa92218ca1",
       "icone": "https://raw.githubusercontent.com/vtferrari99-hub/CoffeeLabs---Apps/main/icones/zeus.png",
-      "apk": "https://github.com/vtferrari99-hub/CoffeeLabs---Apps/releases/download/zeus/Zeus.apk",
-      "novidades": "Alertas de segurança do GitHub (Dependabot, Secret scanning e CodeQL) com pop-up."
+      "apk": "https://raw.githubusercontent.com/vtferrari99-hub/CoffeeLabs---Apps/main/apks/Zeus.apk",
+      "novidades": "Blindagem: avisos ocultos na tela bloqueada e só links do GitHub."
     }
   ]
 }
