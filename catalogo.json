@@ -4,6 +4,20 @@
   "atualizado": "2026-11-21",
   "apps": [
     {
+      "id": "coffeelabs",
+      "nome": "CoffeeLabs",
+      "pacote": "br.com.coffeelabs",
+      "descricao": "App único da CoffeeLabs: Princess Rescue, Garage, BIMMER e Zeus. Modelo 3D do M3 G80 por SLB (Sketchfab), CC BY 4.0.",
+      "versao": "1.0.31",
+      "versionCode": 31,
+      "minAndroid": 10,
+      "tamanhoBytes": 9537836,
+      "sha256": "c3acb9cd72672c6e5974b36d3c053e966353cc59eefdbb6b9804b4ad0da0bd00",
+      "icone": "https://raw.githubusercontent.com/vtferrari99-hub/CoffeeLabs---Apps/main/icones/coffeelabs.png",
+      "apk": "https://raw.githubusercontent.com/vtferrari99-hub/CoffeeLabs---Apps/main/apks/CoffeeLabs.apk",
+      "novidades": "Zeus 0.52 dentro do app, com o GitHub trancado pela digital; central de Novidades mostra os apps de dentro atualizados."
+    },
+    {
       "id": "zeus",
       "nome": "Zeus",
       "pacote": "com.coffeelabs.monitor",
