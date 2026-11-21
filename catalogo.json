@@ -1,7 +1,7 @@
 {
   "formato": 1,
   "loja": "CoffeeLabs",
-  "atualizado": "2026-11-18",
+  "atualizado": "2026-11-21",
   "apps": [
     {
       "id": "zeus",
@@ -16,6 +16,20 @@
       "icone": "https://raw.githubusercontent.com/vtferrari99-hub/CoffeeLabs---Apps/main/icones/zeus.png",
       "apk": "https://raw.githubusercontent.com/vtferrari99-hub/CoffeeLabs---Apps/main/apks/Zeus.apk",
       "novidades": "Blindagem: avisos ocultos na tela bloqueada e só links do GitHub."
+    },
+    {
+      "id": "gba3d",
+      "nome": "GBA 3D",
+      "pacote": "br.com.coffeelabs.gba3d",
+      "descricao": "Emulador que mostra o jogo como um diorama 3D: camadas em altura, pixels com espessura e personagens em pé. Não inclui nenhum jogo. Núcleo mGBA (MPL 2.0, github.com/mgba-emu/mgba).",
+      "versao": "0.1.3",
+      "versionCode": 3,
+      "minAndroid": 8,
+      "tamanhoBytes": 2504110,
+      "sha256": "4450dd65084aacb02fc17e49c4aa5a306d21f8fc1835f785924db082da43c649",
+      "icone": "https://raw.githubusercontent.com/vtferrari99-hub/CoffeeLabs---Apps/main/icones/gba3d.png",
+      "apk": "https://raw.githubusercontent.com/vtferrari99-hub/CoffeeLabs---Apps/main/apks/GBA3D.apk",
+      "novidades": "Primeira versão: cenário com volume, textos fora do diorama, velocidade 2x/3x/5x, lista de jogos e estados salvos."
     }
   ]
 }
