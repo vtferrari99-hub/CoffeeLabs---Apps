@@ -1,0 +1,35 @@
+{
+  "formato": 1,
+  "loja": "CoffeeLabs",
+  "atualizado": "2026-11-22",
+  "apps": [
+    {
+      "id": "coffeelabs",
+      "nome": "CoffeeLabs",
+      "pacote": "br.com.coffeelabs",
+      "descricao": "App único da CoffeeLabs: Princess Rescue, Garage e BIMMER. Modelo 3D do M3 G80 por SLB (Sketchfab), CC BY 4.0.",
+      "versao": "1.0.36",
+      "versionCode": 36,
+      "minAndroid": 10,
+      "tamanhoBytes": 6470196,
+      "sha256": "c43160d11067b1fc9fd9360b207acbce78e324f250b85b68d10a8d7a762640a1",
+      "icone": "https://raw.githubusercontent.com/vtferrari99-hub/CoffeeLabs---Apps/main/icones/coffeelabs.png",
+      "apk": "https://raw.githubusercontent.com/vtferrari99-hub/CoffeeLabs---Apps/main/apks/CoffeeLabs.apk",
+      "novidades": "O Zeus saiu do CoffeeLabs: o app fica com Princess Rescue, Garage e BIMMER, mais leve e pedindo menos permissões."
+    },
+    {
+      "id": "gba3d",
+      "nome": "GBA 3D",
+      "pacote": "br.com.coffeelabs.gba3d",
+      "descricao": "Emulador que mostra o jogo como um diorama 3D: camadas em altura, pixels com espessura e personagens em pé. Não inclui nenhum jogo. Núcleo mGBA (MPL 2.0, github.com/mgba-emu/mgba).",
+      "versao": "0.1.3",
+      "versionCode": 3,
+      "minAndroid": 8,
+      "tamanhoBytes": 2504110,
+      "sha256": "4450dd65084aacb02fc17e49c4aa5a306d21f8fc1835f785924db082da43c649",
+      "icone": "https://raw.githubusercontent.com/vtferrari99-hub/CoffeeLabs---Apps/main/icones/gba3d.png",
+      "apk": "https://raw.githubusercontent.com/vtferrari99-hub/CoffeeLabs---Apps/main/apks/GBA3D.apk",
+      "novidades": "Primeira versão: cenário com volume, textos fora do diorama, velocidade 2x/3x/5x, lista de jogos e estados salvos."
+    }
+  ]
+}
